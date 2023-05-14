@@ -1,4 +1,9 @@
-### Hi there 👋
+## Olá! Sou o Leonardo Reis, mas pode me chamar de Leo ou de Reis. 
+<p> Sou Desenvolvedor Front-End no Telecine, estudando e praticando constantemente mirando o Full Stack.</p>
+<p> Aqui eu posto alguns códigos que testo, pratico, aprendo nos cursos que faço ou simples projetos particulares.</p>
+<p> Meus repositórios estão em constante atualização.</p>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-rsantos&layout=donut)](https://github.com/leonardo-rsantos/github-readme-stats) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=leonardo-rsantos&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/leonardo-rsantos/github-readme-stats#gh-light-mode-only) 
 
 <!--
 **leonardo-rsantos/leonardo-rsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

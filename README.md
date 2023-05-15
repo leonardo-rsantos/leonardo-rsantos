@@ -5,6 +5,8 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-rsantos&layout=donut)](https://github.com/leonardo-rsantos/github-readme-stats) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=leonardo-rsantos&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/leonardo-rsantos/github-readme-stats#gh-light-mode-only) 
 
+![snake gif](https://github.com/leonardo-rsantos/leonardo-rsantos/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **leonardo-rsantos/leonardo-rsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
